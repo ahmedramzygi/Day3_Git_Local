@@ -1,2 +1,1 @@
-#!
-echo "THis is a new script"
+Hello World
